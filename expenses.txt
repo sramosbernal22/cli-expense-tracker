@@ -1,0 +1,12 @@
+Description: Nintendo
+Amount: 200
+Category: Entertainment
+--------------------
+Description: Groceries
+Amount: 89
+Category: Food
+--------------------
+Description: Gym
+Amount: 34.99
+Category: Fitness
+--------------------
